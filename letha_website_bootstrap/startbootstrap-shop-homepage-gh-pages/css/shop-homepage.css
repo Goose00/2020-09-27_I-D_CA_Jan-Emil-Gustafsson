@@ -1,0 +1,65 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/templates/shop-homepage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+
+/*Basic layout styles -----------------------------------------------------------------------------------------------------------*/
+
+ html {
+  font-family: sans-serif;
+}
+
+body {
+  padding-top: 56px;
+  background-color: #592C28;
+  color: #F2E0C9;
+}
+h1{
+  padding-bottom: .01em;
+  line-height: 1em;
+  text-align: center;
+  font-size: 4em;
+  color: #A65644;
+  font-family: 'EB Garamond', serif;
+  font-weight: 600;
+}
+
+h2, h3, h4 {
+  padding-bottom: 2em;
+  text-align: center;
+  font-size: 2em;
+  font-family: 'EB Garamond', serif;
+  font-weight: 400;
+}
+
+.bg-dark {
+  background-color: #222626 !important;
+}
+
+.navbar-dark .navbar-brand {
+  color: #F2E0C9;
+}
+
+.navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
+  color: #BF8665
+}
+
+
+
+.list-group-item {
+  
+  background-color: #222626;
+  font-size: 1.2em;
+}
+
+a {
+  color: #F2E0C9;
+  
+}
+
+a:hover {
+  color: #BF8665;
+  text-decoration: underline;
+}
+
